@@ -1,5 +1,5 @@
 <!---
-This lesson was developed by YOUR NAME HERE for COHORT NAME / DATE / LOCATION HERE. 
+This lesson was developed by YOUR NAME HERE for COHORT NAME / DATE / LOCATION HERE.
 
 Questions? Comments?
 1. Log an issue to this repo to alert me of a problem.
@@ -33,7 +33,7 @@ X minutes.
 ## Suggested Agenda
 <!--- Provide a breakdown of what will happen in this lesson. --->
 
-| Time | Activity | Purpose |
+| Time | Activity | Purpose / Description |
 | --- | --- | --- |
 | 0:00 - 0:02 | Welcome | Introduce the lesson’s objectives and agenda.|
 | 0:02 - 0:10 | Activity 1 | Why?|
@@ -47,7 +47,7 @@ X minutes.
 - Be sure to link to any student-facing materials needed, like worksheets, presentation slides, sample code, etc.
 
 <!---
-OPTIONAL: If you like you can include a table here with quick links out to the lesson resources. 
+OPTIONAL: If you like you can include a table here with quick links out to the lesson resources.
 
 | Topic | Description | Link |
 | --- | --- | --- |
@@ -97,7 +97,7 @@ OPTIONAL: If you like you can include a table here with quick links out to the l
 
 -----
 
-<!--- 
+<!---
 If you like you can include a section at the end with a a checklist for any specific data, code, examples, or other preparations that instructors need to take before teaching the lesson, outside of preparing slides. It can be helpful for instructors, if you'd like to include it.
 ## Lesson Prep Checklist
 
